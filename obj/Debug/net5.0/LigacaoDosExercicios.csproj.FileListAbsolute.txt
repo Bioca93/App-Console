@@ -1,0 +1,32 @@
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\LigacaoDosExercicios\bin\Debug\net5.0\LigacaoDosExercicios.exe
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\LigacaoDosExercicios\bin\Debug\net5.0\LigacaoDosExercicios.deps.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\LigacaoDosExercicios\bin\Debug\net5.0\LigacaoDosExercicios.runtimeconfig.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\LigacaoDosExercicios\bin\Debug\net5.0\LigacaoDosExercicios.runtimeconfig.dev.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\LigacaoDosExercicios\bin\Debug\net5.0\LigacaoDosExercicios.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\LigacaoDosExercicios\bin\Debug\net5.0\LigacaoDosExercicios.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\LigacaoDosExercicios\obj\Debug\net5.0\LigacaoDosExercicios.csproj.AssemblyReference.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\LigacaoDosExercicios\obj\Debug\net5.0\LigacaoDosExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\LigacaoDosExercicios\obj\Debug\net5.0\LigacaoDosExercicios.AssemblyInfoInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\LigacaoDosExercicios\obj\Debug\net5.0\LigacaoDosExercicios.AssemblyInfo.cs
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\LigacaoDosExercicios\obj\Debug\net5.0\LigacaoDosExercicios.csproj.CoreCompileInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\LigacaoDosExercicios\obj\Debug\net5.0\LigacaoDosExercicios.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\LigacaoDosExercicios\obj\Debug\net5.0\refint\LigacaoDosExercicios.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\LigacaoDosExercicios\obj\Debug\net5.0\LigacaoDosExercicios.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\LigacaoDosExercicios\obj\Debug\net5.0\LigacaoDosExercicios.genruntimeconfig.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\LigacaoDosExercicios\obj\Debug\net5.0\ref\LigacaoDosExercicios.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Operations\LigacaoDosExercicios_Operations\bin\Debug\net5.0\LigacaoDosExercicios.exe
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Operations\LigacaoDosExercicios_Operations\bin\Debug\net5.0\LigacaoDosExercicios.deps.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Operations\LigacaoDosExercicios_Operations\bin\Debug\net5.0\LigacaoDosExercicios.runtimeconfig.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Operations\LigacaoDosExercicios_Operations\bin\Debug\net5.0\LigacaoDosExercicios.runtimeconfig.dev.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Operations\LigacaoDosExercicios_Operations\bin\Debug\net5.0\LigacaoDosExercicios.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Operations\LigacaoDosExercicios_Operations\bin\Debug\net5.0\LigacaoDosExercicios.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Operations\LigacaoDosExercicios_Operations\obj\Debug\net5.0\LigacaoDosExercicios.csproj.AssemblyReference.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Operations\LigacaoDosExercicios_Operations\obj\Debug\net5.0\LigacaoDosExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Operations\LigacaoDosExercicios_Operations\obj\Debug\net5.0\LigacaoDosExercicios.AssemblyInfoInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Operations\LigacaoDosExercicios_Operations\obj\Debug\net5.0\LigacaoDosExercicios.AssemblyInfo.cs
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Operations\LigacaoDosExercicios_Operations\obj\Debug\net5.0\LigacaoDosExercicios.csproj.CoreCompileInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Operations\LigacaoDosExercicios_Operations\obj\Debug\net5.0\LigacaoDosExercicios.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Operations\LigacaoDosExercicios_Operations\obj\Debug\net5.0\refint\LigacaoDosExercicios.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Operations\LigacaoDosExercicios_Operations\obj\Debug\net5.0\LigacaoDosExercicios.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Operations\LigacaoDosExercicios_Operations\obj\Debug\net5.0\LigacaoDosExercicios.genruntimeconfig.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Operations\LigacaoDosExercicios_Operations\obj\Debug\net5.0\ref\LigacaoDosExercicios.dll
